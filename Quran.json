@@ -5,8 +5,10 @@
   "age": 27,
   "phone_numbers": [
     {
-      "type": "home",
-      "number": "212 555-1234"
+    'الغاشية': false, 
+    'الأعلى': false,
+    'الليل': true, 
+    'الشمس': false
     },
     {
       "type": "office",
