@@ -3,9 +3,6 @@
   "last_name": "Smith",
   "is_alive": true,
   "age": 27,
-  "option": {
-'الغاشية': false, 'الأعلى': false, 'الليل': true, 'الشمس': false
-  },
   "phone_numbers": [
     {
       "type": "home",
