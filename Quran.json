@@ -5,10 +5,10 @@
   "age": 27,
   "phone_numbers": [
     {
-    'الغاشية': false, 
-    'الأعلى': false,
-    'الليل': true, 
-    'الشمس': false
+    'الغاشية': 'false', 
+    'الأعلى': 'false',
+    'الليل': 'true', 
+    'الشمس': 'false'
     },
     {
       "type": "office",
